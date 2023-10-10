@@ -1,4 +1,4 @@
-***Exemplo de funções em C++ 
+<h2>Exemplo de funções em C++</h2> 
 
 <p> Objetivo é mostrar alguns exemplos de codigos escrito em C++. Destacando a importância de codigos modulares afim de manter a organização e a manutenção </p>
 
